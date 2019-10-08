@@ -1,3 +1,3 @@
 # irtapp
 
-shiny::runGitHub("irtapp", "lgsilvaesilva")
+`shiny::runGitHub("irtapp", "lgsilvaesilva")`
